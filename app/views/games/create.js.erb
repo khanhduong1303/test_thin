@@ -1,0 +1,4 @@
+alert('ok')
+<% publish_to "/games/new" do %>
+$("#content").append("<%= j render 'index' %>");
+<% end %>

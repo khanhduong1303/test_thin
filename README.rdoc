@@ -36,7 +36,7 @@ See [Installation Instructions](https://facebook.github.io/react-native/docs/get
 
 == Project structure
 
-root
+  root
         android		project native android, can build with Android studio
         ios		project native ios, can build with Xcode 8+
         App.js		define class wrapper all app, setup some config for app
@@ -51,6 +51,6 @@ root
                 themes		all file about format layout
                 utils		all common functions
                 components	all components
-			common		all element as item of list, button, text
-			screens		all screen component (full screen), them is extends BaseComponent.js
-			subComponent	all sub component such as listview, it include many element
+                        common		all element as item of list, button, text
+                        screens		all screen component (full screen), them is extends BaseComponent.js
+                        subComponent	all sub component such as listview, it include many element

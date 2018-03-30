@@ -37,8 +37,8 @@ See [Installation Instructions](https://facebook.github.io/react-native/docs/get
 == Project structure
 
 root
-	android		project native android, can build with Android studio
-	ios		project native ios, can build with Xcode 8+
+--	android		project native android, can build with Android studio
+--	ios		project native ios, can build with Xcode 8+
 	App.js		define class wrapper all app, setup some config for app
 	index.js	register application
 	package.json	define dependencies

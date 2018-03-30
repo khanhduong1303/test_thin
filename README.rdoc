@@ -29,12 +29,12 @@ Please feel free to use a different markup language if you do not plan to run
 
 
 
-# Agent Place Project
+= Agent Place Project
 
-## Setup enviroments
+== Setup enviroments
 See [Installation Instructions](https://facebook.github.io/react-native/docs/getting-started.html).
 
-## Project structure
+== Project structure
 
 root
 	android		project native android, can build with Android studio

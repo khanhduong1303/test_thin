@@ -37,20 +37,20 @@ See [Installation Instructions](https://facebook.github.io/react-native/docs/get
 == Project structure
 
 root
---	android		project native android, can build with Android studio
---	ios		project native ios, can build with Xcode 8+
-	App.js		define class wrapper all app, setup some config for app
-	index.js	register application
-	package.json	define dependencies
-	src		source code folder
-		api		all file about rest api (not use for now yet)
-		constants	all constant variables
-		dal		all graphql wrapper for each model (object)
-		images		all image add here
-		models		all model object
-		themes		all file about format layout
-		utils		all common functions
-		components	all components
+        android		project native android, can build with Android studio
+        ios		project native ios, can build with Xcode 8+
+        App.js		define class wrapper all app, setup some config for app
+        index.js	register application
+        package.json	define dependencies
+        src		source code folder
+                api		all file about rest api (not use for now yet)
+                constants	all constant variables
+                dal		all graphql wrapper for each model (object)
+                images		all image add here
+                models		all model object
+                themes		all file about format layout
+                utils		all common functions
+                components	all components
 			common		all element as item of list, button, text
 			screens		all screen component (full screen), them is extends BaseComponent.js
 			subComponent	all sub component such as listview, it include many element

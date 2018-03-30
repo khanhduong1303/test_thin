@@ -32,7 +32,7 @@ Please feel free to use a different markup language if you do not plan to run
 = Agent Place Project
 
 == Setup enviroments
-See [Installation Instructions](https://facebook.github.io/react-native/docs/getting-started.html).
+See Installation Instructions (https://facebook.github.io/react-native/docs/getting-started.html).
 
 == Project structure
 

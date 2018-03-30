@@ -34,6 +34,18 @@ Please feel free to use a different markup language if you do not plan to run
 == Setup enviroments
 See Installation Instructions (https://facebook.github.io/react-native/docs/getting-started.html).
 
+== Install dependencies
+cd to root folder, run command
+  npm install
+Install cocoapod
+  sudo gem install cocoapods
+cd to ios folder, run command
+  cd ios
+  pod install
+run app on iOS simulator
+  react-native run-its
+run app on Android
+  react-native run-android
 == Project structure
 
   root
